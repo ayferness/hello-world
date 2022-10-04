@@ -11,5 +11,9 @@ body {
     margin: 10px;
     height: 70px;
   }
-  
-  
+  nav a {
+    text-decoration: none;
+  }
+  img {
+    border-radius: 50px;
+  }
