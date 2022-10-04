@@ -21,3 +21,12 @@ else if(time < 24){
 else {
     alert("That hour does not exist!");
 }
+
+
+
+function addTwoNumbers(number1, number2){
+  console.log(number1 + number2);
+  return number1 + number2;
+}
+
+addTwoNumbers("Welcome to our ", "Website");
