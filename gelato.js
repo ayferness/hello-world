@@ -23,10 +23,12 @@ else {
 }
 
 
-
-function addTwoNumbers(number1, number2){
+ function addTwoNumbers(number1, number2){
   console.log(number1 + number2);
+  document.write(number1+number2)
   return number1 + number2;
 }
 
 addTwoNumbers("Welcome to our ", "Website");
+
+function getname()
